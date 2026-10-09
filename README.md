@@ -10,6 +10,6 @@ Converting the ER Model into a relational schema using **MySQL**. The file conta
 **More on SQL-**
 The experiments 3 to 6 contain basic and advanced SQL concepts with relevant queries.
 The topics covered include:
-**Functions**
-**Procedures**
-**Triggers**
+**Functions**,
+**Procedures**,
+**Triggers**.
